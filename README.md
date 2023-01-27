@@ -3,6 +3,7 @@ Farming is a difficult industry to break into. In both small- and large-scale en
 That's why to help farmers tackle such issues, I decided to come up with the project "Krishak Vridhhi".
 Krishak Vridhhi is a website that will be used for agriculture purposes.
 This website will help farmers to save time, effort, and money while improving their business.
+but Krishak Vriddhi is now under construction as I am working on some of it's pages
 # Objectives of Krishak_vriddhi:
 Effective user-friendly dashboard
 Farmers can also log in and signup to software to keep track of their activities.
